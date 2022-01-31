@@ -10,22 +10,23 @@
 </head>
 <body>
 <h1 align="center">Welcome to Vital Technologies.</h1>
-<h2 align="center"> We are supporting the Ebay Black Friday Project.
+<h2 align="center"> Welcome to Vital Technologies, 
+	An ideal online training platform for DevOps and Cloud Engineers.
 	Vital Technologies is a software development company. 
 	Class20 will run from January 27, 2022.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.jpg" alt="" width="200">
+		<img src="images/log4.png" alt="" width="200">
 	</span>
 	<span style="font-weight: bold;">
-		Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+		Vital Technology, 
+		Calgary, Alberta, Canada
+		+1 403 397 4272,
+		vitalismuma@gmail.com
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="mailto:vitalismuma@gmail.com">Mail to Vital Technologies</a>
 	</span>
 </div>
 <hr>
