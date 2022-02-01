@@ -10,10 +10,10 @@
 </head>
 <body>
 <h1 align="center">Welcome to Vital Technologies.</h1>
-<h2 align="center"> Welcome to Vital Technologies, 
+<h2 align="center">  
 	An ideal online training platform for DevOps and Cloud Engineers.
 	Vital Technologies is a software development company. 
-	Class20 will run from January 27, 2022.
+	Class20 will run from January 27, 2022 - December 1, 2022.
 	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
